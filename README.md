@@ -88,21 +88,7 @@ void loop()
    digitalWrite(2,LOW);  
 }
 ```
- 
-
-
-
-
-
-
-
-
-
-**
-**Simulation output:** 
-**
-
-
+## Simulation output:
 [My image](username.github.com/repository/img/image.jpg)
 
 ## OUTPUT:
