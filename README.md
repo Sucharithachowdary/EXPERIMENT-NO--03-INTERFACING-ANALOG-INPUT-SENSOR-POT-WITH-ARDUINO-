@@ -37,7 +37,8 @@ General specifications of analog sensor
 	3.Linearity
 	4.Compatiblity
 	5. signal conversion capability
-
+  
+  
 **Potentiometer**
 A potentiometer, informally a pot, is a three-terminal resistor with a sliding or rotating contact that forms an adjustable voltage divider. If only two terminals are used, one end and the wiper, it acts as a variable resistor or rheostat.
 Potentiometers are commonly used to control electrical devices such as volume controls on audio equipment. Potentiometers operated by a mechanism can be used as position transducers, for example, in a joystick. Potentiometers are rarely used to directly control significant power (more than a watt), since the power dissipated in the potentiometer would be comparable to the power in the controlled load
@@ -91,6 +92,7 @@ void loop()
 
 ## OUTPUT:
 ![Screenshot (3)](https://user-images.githubusercontent.com/93427224/165760908-e6ec289b-52c2-4c3c-9250-f25e67c58255.png)
+
 
 
 
