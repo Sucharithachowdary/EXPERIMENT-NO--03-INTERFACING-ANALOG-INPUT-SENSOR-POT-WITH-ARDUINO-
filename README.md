@@ -91,12 +91,9 @@ void loop()
 ```
 
 ## OUTPUT:
-![Screenshot (3)](https://user-images.githubusercontent.com/93427224/165760908-e6ec289b-52c2-4c3c-9250-f25e67c58255.png)
-
-
-
-
-
+![output](?raw=true)
+![output](?raw=true)
+![output](?raw=true)
 
 ## RESULT:
 Arduino uno analog input functioning is learned and interfaced with digital input switch .
